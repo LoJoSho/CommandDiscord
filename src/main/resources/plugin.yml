@@ -1,0 +1,8 @@
+name: CommandDiscord
+version: ${project.version}
+main: me.lojosho.commanddiscord.CommandDiscord
+api-version: 1.16
+authors: [LoJoSho]
+description: allows discord command
+commands:
+  discord:
